@@ -22,6 +22,7 @@ feign:
   hystrix:
     enabled: false
 
+
 logging:
   level:
     io:
@@ -29,3 +30,8 @@ logging:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
+
+
+
+
+
